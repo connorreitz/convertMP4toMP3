@@ -1,0 +1,7 @@
+TODO:
+
+Make outputs folder
+Ability to choose input files rather than having them in input location
+GUI?
+Add FFMPEG, inputs to repository
+Tests
